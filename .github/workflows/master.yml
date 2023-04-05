@@ -14,4 +14,4 @@ jobs:
         server:  ftp.webstackict.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/websuasn/public_html/
+        server-dir: /
